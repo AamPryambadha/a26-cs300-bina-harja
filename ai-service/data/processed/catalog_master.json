@@ -1,0 +1,309 @@
+[
+  {
+    "product_id": "P0001",
+    "canonical_name": "Philip LED 3W",
+    "brand": "Philip",
+    "product_type": "LED 3W",
+    "category": "Lampu",
+    "purchase_price": 22150,
+    "price": 32500,
+    "normalized_name": "philip led 3w",
+    "aliases": [
+      "lampu philip",
+      "lampu led 3w",
+      "philip led 3w"
+    ]
+  },
+  {
+    "product_id": "P0002",
+    "canonical_name": "Philip ESSENTIAL 14W",
+    "brand": "Philip",
+    "product_type": "ESSENTIAL 14W",
+    "category": "Lampu",
+    "purchase_price": 42200,
+    "price": 65000,
+    "normalized_name": "philip essential 14w",
+    "aliases": [
+      "lampu essential 14w",
+      "lampu philip",
+      "philip essential 14w"
+    ]
+  },
+  {
+    "product_id": "P0003",
+    "canonical_name": "SMD T LED 5W",
+    "brand": "SMD T",
+    "product_type": "LED 5W",
+    "category": "Lampu",
+    "purchase_price": 3400,
+    "price": 7000,
+    "normalized_name": "smd t led 5w",
+    "aliases": [
+      "lampu led 5w",
+      "lampu smd t",
+      "smd t led 5w"
+    ]
+  },
+  {
+    "product_id": "P0004",
+    "canonical_name": "Elektra Clear 5W",
+    "brand": "Elektra",
+    "product_type": "Clear 5W",
+    "category": "Lampu",
+    "purchase_price": 3400,
+    "price": 6000,
+    "normalized_name": "elektra clear 5w",
+    "aliases": [
+      "elektra clear 5w",
+      "lampu clear 5w",
+      "lampu elektra"
+    ]
+  },
+  {
+    "product_id": "P0005",
+    "canonical_name": "LUBY LED 30W",
+    "brand": "LUBY",
+    "product_type": "LED 30W",
+    "category": "Lampu",
+    "purchase_price": 63000,
+    "price": 85000,
+    "normalized_name": "luby led 30w",
+    "aliases": [
+      "luby led 30w",
+      "lampu led 30w",
+      "lampu luby"
+    ]
+  },
+  {
+    "product_id": "P0006",
+    "canonical_name": "GA 2 x 0.75",
+    "brand": "GA",
+    "product_type": "2 x 0.75",
+    "category": "Kabel",
+    "purchase_price": 2700,
+    "price": 5000,
+    "normalized_name": "ga 2 x 0.75",
+    "aliases": [
+      "ga 2 x 0.75",
+      "kabel ga",
+      "kabel 2 x 0.75"
+    ]
+  },
+  {
+    "product_id": "P0007",
+    "canonical_name": "SUPREME 2 x 1.5",
+    "brand": "SUPREME",
+    "product_type": "2 x 1.5",
+    "category": "Kabel",
+    "purchase_price": 12800,
+    "price": 16500,
+    "normalized_name": "supreme 2 x 1.5",
+    "aliases": [
+      "kabel supreme",
+      "supreme 2 x 1.5",
+      "kabel 2 x 1.5"
+    ]
+  },
+  {
+    "product_id": "P0008",
+    "canonical_name": "Bright-G Saklar Tanam 1",
+    "brand": "Bright-G",
+    "product_type": "Tanam 1",
+    "category": "Saklar",
+    "purchase_price": 6500,
+    "price": 10000,
+    "normalized_name": "bright-g saklar tanam 1",
+    "aliases": [
+      "bright-g saklar tanam 1",
+      "saklar tanam 1",
+      "bright-g tanam 1",
+      "saklar bright-g"
+    ]
+  },
+  {
+    "product_id": "P0009",
+    "canonical_name": "Meiko Saklar Gantung",
+    "brand": "Meiko",
+    "product_type": "Gantung",
+    "category": "Saklar",
+    "purchase_price": 4500,
+    "price": 8000,
+    "normalized_name": "meiko saklar gantung",
+    "aliases": [
+      "meiko saklar gantung",
+      "saklar gantung",
+      "saklar meiko",
+      "meiko gantung"
+    ]
+  },
+  {
+    "product_id": "P0010",
+    "canonical_name": "Bright-G MCB 2A",
+    "brand": "Bright-G",
+    "product_type": "2A",
+    "category": "MCB",
+    "purchase_price": 20000,
+    "price": 25000,
+    "normalized_name": "bright-g mcb 2a",
+    "aliases": [
+      "bright-g 2a",
+      "bright-g mcb 2a",
+      "mcb bright-g",
+      "mcb 2a"
+    ]
+  },
+  {
+    "product_id": "P0011",
+    "canonical_name": "Solder Kenmaster",
+    "brand": "Kenmaster",
+    "product_type": "Generic",
+    "category": "Solder",
+    "purchase_price": 12500,
+    "price": 18000,
+    "normalized_name": "solder kenmaster",
+    "aliases": [
+      "solder kenmaster",
+      "solder generic",
+      "kenmaster generic"
+    ]
+  },
+  {
+    "product_id": "P0012",
+    "canonical_name": "ABC Baterai A2",
+    "brand": "ABC",
+    "product_type": "A2",
+    "category": "Baterai",
+    "purchase_price": 2000,
+    "price": 3500,
+    "normalized_name": "abc baterai a2",
+    "aliases": [
+      "baterai abc",
+      "abc baterai a2",
+      "abc a2",
+      "baterai a2"
+    ]
+  },
+  {
+    "product_id": "P0013",
+    "canonical_name": "Alkaline Baterai A2",
+    "brand": "Alkaline",
+    "product_type": "A2",
+    "category": "Baterai",
+    "purchase_price": 5000,
+    "price": 7500,
+    "normalized_name": "alkaline baterai a2",
+    "aliases": [
+      "baterai alkaline",
+      "alkaline baterai a2",
+      "alkaline a2",
+      "baterai a2"
+    ]
+  },
+  {
+    "product_id": "P0014",
+    "canonical_name": "Cahaya 2L + Kabel",
+    "brand": "Cahaya",
+    "product_type": "2L + Kabel",
+    "category": "Stop Kontak",
+    "purchase_price": 20000,
+    "price": 25000,
+    "normalized_name": "cahaya 2l + kabel",
+    "aliases": [
+      "stop kontak 2l + kabel",
+      "cahaya 2l + kabel",
+      "stop kontak cahaya"
+    ]
+  },
+  {
+    "product_id": "P0015",
+    "canonical_name": "Morgen Terninal 1L",
+    "brand": "Morgen",
+    "product_type": "Terninal 1L",
+    "category": "Stop Kontak",
+    "purchase_price": 9000,
+    "price": 12500,
+    "normalized_name": "morgen terninal 1l",
+    "aliases": [
+      "morgen terninal 1l",
+      "stop kontak terninal 1l",
+      "stop kontak morgen"
+    ]
+  },
+  {
+    "product_id": "P0016",
+    "canonical_name": "Broco Bulat (Arde)",
+    "brand": "Broco",
+    "product_type": "Arde",
+    "category": "Steker",
+    "purchase_price": 10000,
+    "price": 15000,
+    "normalized_name": "broco bulat (arde)",
+    "aliases": [
+      "broco arde",
+      "steker broco",
+      "broco bulat (arde)",
+      "steker arde"
+    ]
+  },
+  {
+    "product_id": "P0017",
+    "canonical_name": "Morgen Arde",
+    "brand": "Morgen",
+    "product_type": "Arde",
+    "category": "Steker",
+    "purchase_price": 5000,
+    "price": 8000,
+    "normalized_name": "morgen arde",
+    "aliases": [
+      "morgen arde",
+      "steker arde",
+      "steker morgen"
+    ]
+  },
+  {
+    "product_id": "P0018",
+    "canonical_name": "Aoki Antenna Digital",
+    "brand": "Aoki",
+    "product_type": "Antenna Digital",
+    "category": "Antenna",
+    "purchase_price": 125000,
+    "price": 150000,
+    "normalized_name": "aoki antenna digital",
+    "aliases": [
+      "antenna antenna digital",
+      "antenna aoki",
+      "aoki antenna digital"
+    ]
+  },
+  {
+    "product_id": "P0019",
+    "canonical_name": "Broco Plafon",
+    "brand": "Broco",
+    "product_type": "Plafon",
+    "category": "Fitting Lampu",
+    "purchase_price": 10000,
+    "price": 15000,
+    "normalized_name": "broco plafon",
+    "aliases": [
+      "fitting lampu broco",
+      "broco plafon",
+      "fitting lampu plafon"
+    ]
+  },
+  {
+    "product_id": "P0020",
+    "canonical_name": "Remote Joker Multi",
+    "brand": "Joker",
+    "product_type": "Multi",
+    "category": "Remote",
+    "purchase_price": 25000,
+    "price": 35000,
+    "normalized_name": "remote joker multi",
+    "aliases": [
+      "remote joker multi",
+      "remote multi",
+      "remote joker",
+      "joker multi"
+    ]
+  }
+]
